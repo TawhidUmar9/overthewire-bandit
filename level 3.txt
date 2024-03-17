@@ -1,0 +1,6 @@
+pwd: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+steps:
+cd inhere
+find .
+cat ./. hidden

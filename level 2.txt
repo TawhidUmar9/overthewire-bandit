@@ -1,0 +1,4 @@
+pwd: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+steps:
+ cat 'spaces in this filename'

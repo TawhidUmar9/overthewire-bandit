@@ -1,0 +1,7 @@
+user name: bandit0@bandit.labs.overthewire.org -p 2220
+pwd: bandit0
+
+steps:
+
+ls
+cat readme

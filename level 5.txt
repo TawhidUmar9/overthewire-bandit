@@ -1,0 +1,8 @@
+pwd: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+steps:
+ls
+cd inhere
+find . -type f ! -executable -size 1033c
+cat ./maybehere07/.file2
+
